@@ -1,6 +1,6 @@
 {
   "name": "mb-number-formatter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "number formatter npm package",
   "main": "index.js",
   "scripts": {

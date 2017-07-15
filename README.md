@@ -5,11 +5,11 @@ A small library that adds commas to numbers-Fisrt Attempt
 
 ## Installation
 
-  `npm install @mahendrahbagul/number-formatter`
+  `npm install @mahendrahbagul/mb-number-formatter`
 
 ## Usage
 
-    var numFormatter = require('@jdaudier/number-formatter');
+    var numFormatter = require('@mahendrahbagul/mb-number-formatter');
 
     var formattedNum = numFormatter(35666);
   

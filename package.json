@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "mb-number-formatter",
   "version": "0.0.1",
   "description": "number formatter npm package",
   "main": "index.js",

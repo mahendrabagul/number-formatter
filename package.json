@@ -1,0 +1,26 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "number formatter npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahendrabagul/number-formatter.git"
+  },
+  "author": "Mahendra Bagul <bagulm123@gmail.com> (https://mahendrabagul.github.io/)",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/mahendrabagul/number-formatter/issues"
+  },
+  "homepage": "https://github.com/mahendrabagul/number-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
